@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557966444 source:d:\liz\codeblocks\2_vlad\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<vector>
+
+1557963711 d:\liz\codeblocks\2_vlad\alg.h
+	<algorithm>
+	<iostream>
+	<chrono>
+	<thread>
+	<cmath>
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558167088 source:d:\liz\codeblocks\queue\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+	"queue.h"
+
+1558167347 d:\liz\codeblocks\queue\queue.h
+	<cmath>
+

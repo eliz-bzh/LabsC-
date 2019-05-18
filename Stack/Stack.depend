@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558167708 source:d:\liz\codeblocks\stack\main.cpp
+	<iostream>
+	<iterator>
+	<random>
+	"Stack.h"
+	<time.h>
+
+1558167819 d:\liz\codeblocks\stack\stack.h
+

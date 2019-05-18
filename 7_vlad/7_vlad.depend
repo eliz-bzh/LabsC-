@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557967585 source:d:\liz\codeblocks\7_vlad\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+
